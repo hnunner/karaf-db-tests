@@ -9,6 +9,10 @@
          >> sun.misc, \ <<
             javax.accessibility, \
             ...
+
+        2nd checkout and build cschneider Karaf-Tutorial from https://github.com/cschneider/Karaf-Tutorial.git
+
+        3rd checkout and build Karaf compatible version of henplus from https://github.com/mabels/henplus.git
      -->
     <!-- features:addUrl mvn:com.adviser.karaf/db-tests-cschneider-karaf-tutorial-feature/${project.version}/xml -->
 
